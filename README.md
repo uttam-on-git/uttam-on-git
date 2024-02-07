@@ -1,28 +1,31 @@
-<h1 align="center">Hi 👋, I'm Romendra Uttam</h1>
-<h3 align="center">A self taught full-stack developer from India</h3>
+### Hey, I'm Romendra Uttam👋🏽  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uttam-on-git&label=Profile%20views&color=0e75b6&style=flat" alt="uttam-on-git" /> </p>
+I'm a 20-year-old developer based in India, and I'm passionate about crafting digital experiences. 
 
+- Explore my [blog](https://dexter-pir.hashnode.dev/) where I share insights and learnings.
+- Check out [open-blog](https://github.com/mirayatech/vscode-settings) repo for code review.
 - 🔭 I’m currently working on **personal portfolio**
+ 
+## 📦 Toolbox
 
-- 🌱 I’m currently learning **full-stack development**
+**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `HTML` `Javascript` `CSS`
+ 
+**Version Control:** `Git` 
 
-- 👨‍💻 All of my projects are available at [uttam](uttam)
+**Backend Development:** `Node.js` `Mongodb` `Firebase` `
 
-- 📫 How to reach me **7388dexter.pir@gmail.com**
+**Testing:** `Postman` `Insomnia`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/uttam_twts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uttam_twts" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/uttam-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uttam-in" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dexter_pir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dexter_pir" height="30" width="40" /></a>
-</p>
+**Others:** `Linux` `Competitive Programmer’s Handbook`
+ 
+## ✨ Fun Facts 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- I love to know about hardware like microprocessors and microcontrollers and will definitely work on these in the future.
+- As a kid, I wanted to be an engineer.
+- I love Linux.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uttam-on-git&show_icons=true&locale=en&layout=compact" alt="uttam-on-git" /></p>
+## 📫 Contact
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uttam-on-git&show_icons=true&locale=en" alt="uttam-on-git" /></p>
+ For a quick response, DM me on [Twitter](https://twitter.com/uttam_twts). 
+ 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uttam-on-git&" alt="uttam-on-git" /></p>
