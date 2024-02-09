@@ -3,7 +3,7 @@
 I'm a 20-year-old developer based in India, and I'm passionate about crafting digital experiences. 
 
 - Check out [open-blog](https://github.com/mirayatech/vscode-settings) repo for code review.
-- Explore my [blog](https://dexter-pir.hashnode.dev/) where I share insights and learnings.
+- Explore my [my projects](https://github.com/uttam-on-git?tab=repositories).
 - 🔭 I’m currently working on **personal portfolio**
  
 ## 📦 Toolbox
